@@ -2,11 +2,11 @@
 
 Um glossário de Git escrito por quem está aprendendo a usá-lo.
 
-## Dupla (ou trio)
+## Dupla
 
-- Nome Sobrenome (usuario-do-github)
-- Nome Sobrenome (usuario-do-github)
-
+- Nicolas Lemes (lsNicol)
+- Clarice Pombo (claricepombo)
+  
 ## Como contribuir
 
 1. Crie um branch com o seu nome.
